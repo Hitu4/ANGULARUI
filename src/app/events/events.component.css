@@ -1,0 +1,338 @@
+.flipkart-navbar-input {
+    padding: 11px 16px;
+    border-radius: 2px 0 0 2px;
+    border: 0 none;
+    outline: 0 none;
+    font-size: 15px;
+  }
+  
+  .flipkart-navbar-button {
+    background-color: #fffefa;
+    border: 1px solid #ffe11b;
+    border-radius: 0 2px 2px 0;
+    padding: 10px 0;
+    height: 43px;
+    cursor: pointer;
+  }
+  
+  #flipkart-navbar {
+    background-color: #2874f0;
+    color: #ffffff;
+  }
+  
+  .header {
+    height: 86px;
+    border: solid rgb(82, 167, 224);
+  }
+  
+  .headerValue {
+      height: 86px;
+      border-right: solid rgb(82, 167, 224);
+      border-top: solid rgb(82, 167, 224);
+      border-left: solid rgb(82, 167, 224);
+    }
+  
+  .headerRightBorder {
+    height: 86px;
+    border-right: solid rgb(82, 167, 224);
+    border-top: solid rgb(82, 167, 224);
+    border-bottom: solid rgb(82, 167, 224);
+  }
+  
+  .headerLeftBorder {
+    height: 86px;
+    border: solid rgb(82, 167, 224);
+  }
+  
+  .rightImageRowHeight {
+    height: 210px;
+    background-color: #052a4a;
+    padding: 0 ;
+    margin: 0 ;
+    border-right: solid rgb(82, 167, 224);
+  }
+  
+  .middleColImage {
+    height: 210px;
+    background-color: #052a4a;
+    border-right: solid rgb(82, 167, 224);
+    padding: 0 ;
+    margin: 0 ;
+  }
+  
+  .containerRowHeight1 {
+    height: 210px;
+    border: solid rgb(82, 167, 224);
+  }
+  
+  .containerRowHeight2 {
+    height: 280px;
+    border: solid rgb(82, 167, 224);
+  }
+  
+  .bordervalue {
+    border: solid rgb(82, 167, 224);
+  }
+  
+  .nopadding {
+    padding: 0 ;
+    margin: 0 ;
+  }
+  
+  .rowHeight {
+    height: 69px;
+  }
+  
+  .middleCol2 {
+    height: 172px;
+  }
+  
+  .borderRight {
+    border-right: solid rgb(82, 167, 224);
+  }
+  
+  .borderLeft {
+    border-left: solid rgb(82, 167, 224);
+  }
+  
+  .borderTop {
+    border-top: solid rgb(82, 167, 224);
+  }
+  
+  .borderBottom {
+    border-bottom: solid rgb(82, 167, 224);
+  }
+  
+  .footerColWidth {
+    width: 16.66666667%;
+  }
+  .background {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  /* .col-md-8 {
+      height: 86px;
+  } */
+  
+  /*
+  Header CSS
+  */
+  
+  .headerTitle {
+    height: 65px;
+    width: 692px;
+    background-color: #ab2020;
+    border-radius: 1rem;
+    border: solid 1px #165082;
+    text-align: center;
+  }
+  
+  .rounded {
+    /* border-top-left-radius: 1rem;
+      border-top-right-radius: 1rem;
+      border-bottom-left-radius: 1rem;
+      border-bottom-right-radius: 1rem; */
+    border-radius: 1rem;
+  }
+  
+  .containerHeader {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .headerStyle {
+    font-family: monospace;
+    font-size: 23px;
+    flex-wrap: 4;
+    color: yellow;
+  }
+  
+  .border {
+    border: solid rgb(114, 190, 235);
+  }
+  
+  .navmenu {
+    padding: 30px;
+    height: 86px;
+    border-right: solid #2874f0;
+    background-color: rgb(255, 255, 255);
+    padding: 0 !important;
+    margin: 0 !important;
+    font-family: monospace;
+    font-size: 21px;
+    flex-wrap: 4;
+    color: rgb(255, 255, 255);
+    text-align: -webkit-center;
+    background-color: #052a4a;
+  }
+  
+  .nav-text {
+    padding: 25px;
+  }
+  
+  .img-rounded {
+    height: 207px;
+    width: 224px;
+    margin-left: 32px;
+  }
+  
+  .img2-rounded {
+    height: 207px;
+    width: 270px;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  
+  .img3-rounded {
+    height: 207px;
+    width: 552px;
+    padding: 0 ;
+    margin: 0 ;
+  }
+  
+  .img4-rounded {
+    height: 207px;
+    width: 567px;
+    padding: 0 ;
+    margin: 0 ;
+  }
+  
+  .img-header {
+    height: 79px;
+    width: 162px;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  
+  .img3-rounded {
+    height: 208px;
+    width: 292px;
+    margin-left: 131px;
+  }
+  
+  .right-sidenav {
+    padding: 30px;
+    border-right: solid #2874f0;
+    background-color: rgb(255, 255, 255);
+    padding: 0 !important;
+    margin: 0 !important;
+    font-family: monospace;
+    font-size: 21px;
+    flex-wrap: 4;
+    color: rgb(255, 255, 255);
+    text-align: -webkit-center;
+    background-color: #052a4a;
+  }
+  
+  .corner-round{
+    border-radius: 1rem;
+    background-color: #ab2020;
+  }
+  
+  .th2Class{
+    height: 67px;
+    
+  }
+  
+  .th2-1Class{
+    height: 142px;
+    background-color: #ffa217;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+  }
+  
+  .th3Class{
+    height: 67px;
+  }
+  
+  .th3-1Class{
+    height: 209px;
+  }
+  
+  
+  .th1Class{
+    height: 273px ;
+    background-color: #ab2020;
+  }
+  
+  .h5class{
+    font-size: 14px;
+      color: white;
+      font-size: 25px;
+      font-family: monospace;
+  }
+  
+  .img6-rounded{
+    height: 206px;
+    width: 253px;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  
+  .middle-tile {
+    padding: 20px;
+    border-right: solid #2874f0;
+    background-color: rgb(255, 255, 255);
+    padding: 0 !important;
+    margin: 0 !important;
+    font-family: monospace;
+    font-size: 14px;
+    flex-wrap: 4;
+    color: rgb(255, 255, 255);
+    text-align: -webkit-center;
+    background-color: #052a4a;
+  }
+  
+  .left-small-sidenav{
+    padding: 20px;
+    border-right: solid #2874f0;
+    background-color: rgb(255, 255, 255);
+    padding: 0 !important;
+    margin: 0 !important;
+    font-family: monospace;
+    font-size: 18px;
+    flex-wrap: 4;
+    color: rgb(255, 255, 255);
+    text-align: -webkit-center;
+    background-color: #052a4a;
+  }
+  
+  .right-small-sidenav{
+  padding: 20px;
+  border-right: solid #2874f0;
+  background-color: rgb(255, 255, 255);
+  padding: 0 ;
+  margin: 0 ;
+  font-family: monospace;
+  font-size: 18px;
+  flex-wrap: 4;
+  color: rgb(255, 255, 255);
+  text-align: -webkit-center;
+  background-color: #052a4a;
+  }
+  
+  .left-small-footer-sidenav{
+    padding: 20px;
+    border-right: solid #2874f0;
+    background-color :red !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    font-family: monospace;
+    font-size: 18px;
+    flex-wrap: 4;
+    color: rgb(255, 255, 255);
+    text-align: -webkit-center;
+    background-color: #052a4a;
+  }
+  
+  .bk-color{
+    background-color :red !important;
+  }
+
+
+.class-a{
+    color: #ffffff;
+    text-decoration: none;
+}
