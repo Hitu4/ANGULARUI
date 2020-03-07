@@ -44,11 +44,11 @@
     border: solid rgb(82, 167, 224);
   }
   
-  .rightImageRowHeight {
-    height: 210px;
-    background-color: #052a4a;
-    padding: 0 ;
-    margin: 0 ;
+  .middleColunm1 {
+    height: 410px;
+    background-color: #ffffff;
+    /* padding: 0 ;
+    margin: 0 ; */
     border-right: solid rgb(82, 167, 224);
   }
   
@@ -61,7 +61,7 @@
   }
   
   .containerRowHeight1 {
-    height: 210px;
+    height: 568px;
     border: solid rgb(82, 167, 224);
   }
   
@@ -77,10 +77,6 @@
   .nopadding {
     padding: 0 ;
     margin: 0 ;
-  }
-  
-  .rowHeight {
-    height: 69px;
   }
   
   .middleCol2 {
@@ -178,19 +174,14 @@
     margin-left: 32px;
   }
   
-  .img2-rounded {
-    height: 207px;
-    width: 270px;
-    padding: 0 !important;
-    margin: 0 !important;
-  }
-  
-  .img3-rounded {
-    height: 207px;
-    width: 552px;
+
+  /* .img3-rounded {
+    height: 243px;
+    width: 292px;
+    margin-left: 131px;
     padding: 0 ;
     margin: 0 ;
-  }
+  } */
   
   .img4-rounded {
     height: 207px;
@@ -207,10 +198,43 @@
   }
   
   .img3-rounded {
-    height: 208px;
+    height: 243px;
     width: 292px;
     margin-left: 131px;
   }
+
+  .img2-rounded {
+    height: 280px;
+    width: 267px;
+    margin-left: -2px;
+  }
+
+    
+  .img2-1-rounded {
+    height: 274px;
+    width: 267px;
+    margin-left: -2px;
+  }
+
+      
+  .img2-2-rounded {
+    height: 280px;
+    width: 267px;
+    margin-left: -2px;
+  }
+  
+
+  .img3-1-rounded {
+    height: 273px;
+    width: 292px;
+    margin-left: 128px;
+  }
+
+  .img3-2-rounded {
+    height: 243px;
+    width: 292px;
+    margin-left: 131px;
+  } 
   
   .right-sidenav {
     padding: 30px;
@@ -334,4 +358,19 @@
 .class-a{
     color: #ffffff;
     text-decoration: none;
+}
+
+ 
+.img7-rounded {
+  height: 632px;
+  width: 283px;
+  margin-left: 14px;
+}
+
+/* .right-nav{
+  margin-left: 0px !important;
+} */
+
+.right-nav-height{
+  height: 71px !important;
 }
